@@ -19,6 +19,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('blog/', include('blog.urls')) ,
+    path('', include('blog.urls')) ,
+    # empty for home
     # this points to the urls.py in blogApp
 ]
