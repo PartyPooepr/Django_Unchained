@@ -23,3 +23,10 @@ This is the starting point of a Django web application.
     a. Bootstrap css
     b. blog/static/blog/main.css
     c. Sidebar (no functionality yet)
+
+Created superuser ADMIN in terminal so no commit
+
+6. Created Database (auth_table, posts)
+    a. Migrations
+    b. Created actual posts not just dummy post
+    
