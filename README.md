@@ -26,7 +26,13 @@ This is the starting point of a Django web application.
 
 Created superuser ADMIN in terminal so no commit
 
+Merged blog into main 
+
 6. Created Database (auth_table, posts)
     a. Migrations
     b. Created actual posts not just dummy post
     
+7. Enabled User Registration
+    a. forms with crispy bootstrap
+    b. flashing messages for account creation
+    c. validation from django 
