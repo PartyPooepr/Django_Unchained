@@ -37,3 +37,6 @@ Created superuser ADMIN in terminal so no commit
     b. register.html
 
 8. Created Login and Logout System
+    a. basic profile page was also created 
+
+9. Update Profile and Profile Pic
