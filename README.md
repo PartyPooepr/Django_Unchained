@@ -30,3 +30,8 @@ Created superuser ADMIN in terminal so no commit
     a. Migrations
     b. Created actual posts not just dummy post
     
+(users)
+
+7. Enabled User Registration
+    a. Crispy forms
+    b. register.html
