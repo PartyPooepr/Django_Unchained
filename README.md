@@ -35,3 +35,5 @@ Created superuser ADMIN in terminal so no commit
 7. Enabled User Registration
     a. Crispy forms
     b. register.html
+
+8. Created Login and Logout System
