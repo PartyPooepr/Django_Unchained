@@ -41,5 +41,9 @@ Created superuser ADMIN in terminal so no commit
 
 9. Created Profile and Pictures
 
-10. Updated Profile
+10. Updated Profile Page
     a. displayed author images
+
+11. Post Manipulation
+    a. create, update and delete post
+    b. check pk for post and author for update and delete
