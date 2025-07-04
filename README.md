@@ -47,3 +47,9 @@ Created superuser ADMIN in terminal so no commit
 11. Post Manipulation
     a. create, update and delete post
     b. check pk for post and author for update and delete
+
+12. Pagination
+    a. 5 posts per page
+    b. page navigation next previous last
+    b. posts of a particular user
+    
